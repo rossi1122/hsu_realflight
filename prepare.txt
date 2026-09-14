@@ -1,0 +1,2 @@
+roslaunch mavros apm.launch \
+  "fcu_url:=/dev/serial/by-id/usb-ArduPilot_Pixhawk6X_1F003D000851333438333636-if00:115200"
